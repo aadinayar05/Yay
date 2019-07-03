@@ -4,6 +4,7 @@
     background:url('https://cdn.pixabay.com/photo/2016/11/25/23/15/moon-1859616_1280.jpg');
 }
 
+
 /* Adds transparency color to settings */
 .theme-dark .standardSidebarView-3F1I7i, .da-app .container-3gCOGc {
         background-color: hsla(43, 0%, 6%, 0.65);
@@ -66,8 +67,8 @@
 .theme-dark ::-webkit-scrollbar, .chat-3bRxxu ::-webkit-scrollbar {
 	width: 10px !important
 }
-.theme-dark ::-webkit-scrollbar-track-piece, .chat-3bRxxu ::-webkit-scrollbar-track-piece, .channels-Ie2l6A ::-webkit-scrollbar-track, .chat-3bRxxu ::-webkit-scrollbar-track { 
-    background: transparent !important; 
+.theme-dark ::-webkit-scrollbar-track-piece, .chat-3bRxxu ::-webkit-scrollbar-track-piece, .channels-Ie2l6A ::-webkit-scrollbar-track, .chat-3bRxxu ::-webkit-scrollbar-track {
+    background: transparent !important;
     border-color: transparent !important;
 }
 .theme-dark ::-webkit-scrollbar-thumb, .chat-3bRxxu ::-webkit-scrollbar-thumb {
@@ -746,7 +747,7 @@
 }
 
 /* Color for the EmbedPill at link BOX*/
-.theme-dark .embedPill-1Zntps[style='background-color: rgb(114, 137, 218);'] { 
+.theme-dark .embedPill-1Zntps[style='background-color: rgb(114, 137, 218);'] {
     background-color: #4f545c!important;
 }
 
